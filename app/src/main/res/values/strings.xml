@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">CeritaKu</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="start">Mulai</string>
+    <string name="message_welcome_page">Tempat di mana imajinasi bertemu realitas, dan setiap halaman adalah petualangan baru. Mau berbagi cerita dengan yang lain? Di CeritaKu aja!</string>
+    <string name="title_welcome_page">Selamat datang di CeritaKu!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Mari bergabung dengan komunitas kami yang penuh inspirasi!</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di CeritaKu.</string>
+    <string name="logout">Keluar</string>
+    <string name="empty">Tidak ada cerita</string>
+    <string name="not_found">Cerita tidak ditemukan</string>
+    <string name="create_story">Berbagi cerita</string>
+
+    <string name="dummy_name" translatable="false">Muhammad Darrel Prawira</string>
+    <string name="dummy_description" translatable="false">Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsum dolor sit amet Lorem ipsu....</string>
+    <string name="dummy_date" translatable="false">September 26, 2002</string>
+    <string name="cerita1">Liburan ke gunung</string>
+    <string name="language">Bahasa\n</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="add_title">Masukkan judul</string>
+    <string name="add_image">Masukkan gambar</string>
+    <string name="select_from_camera">Ambil dari Kamera</string>
+    <string name="select_from_gallery">Ambil dari Galeri</string>
+    <string name="write_desc">Masukkan deskripsi</string>
+    <string name="story_upload">Berhasil upload cerita</string>
+    <string name="upload_failed">Upload cerita gagal</string>
+    <string name="desc_empty">Deskripsi kosong</string>
+    <string name="empty_image">Gambar kosong</string>
+    <string name="detail_title">Detail Cerita</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dont_have_an_account">"Don't have an account?"</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
